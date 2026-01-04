@@ -3,4 +3,4 @@
 ## To run the Docker Image, following is the command - 
 
 * docker build -t prometheus-server .
-* docker run -d --name prometheus -p 9090:9090 prometheus-server
+* docker run -d --name prometheus-server -p 9090:9090 prometheus-server
